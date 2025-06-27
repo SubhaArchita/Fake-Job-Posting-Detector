@@ -26,4 +26,4 @@ Model Info:
 
 Author:
   N. Subha Archita
-  [GitHub](https://github.com/SubhaArchita) | [LinkedIn](www.linkedin.com/in/nsubhaarchita)
+  [GitHub](https://github.com/SubhaArchita) | [LinkedIn](https://www.linkedin.com/in/nsubhaarchita/)
